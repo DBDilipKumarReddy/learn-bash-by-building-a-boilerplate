@@ -194,3 +194,5 @@ find
 mv CodeRoad.svg client/assets/icons/
 mv freeCodeCamp.svg client/assets/icons/
 find
+ls --color=auto
+mkdir client/assets/fonts
