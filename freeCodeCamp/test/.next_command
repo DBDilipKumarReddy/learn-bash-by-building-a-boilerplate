@@ -242,3 +242,5 @@ rm -r freeCodeCamp/reset_files/toms-website/website-boilerplate/
 find -name toms-website
 find -name website-boilerplate
 clear
+echo terminal
+echo goodbye terminal
